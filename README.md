@@ -77,3 +77,12 @@ Zero-dependency Python library to validate Russian business and personal
 identifiers (INN, OGRN, OGRNIP, KPP, SNILS) with official checksum algorithms,
 plus region lookup from an INN. `pip install inn-tools`. MIT licensed.
 Maintained by [KontragentPro](https://kontragentpro.ru).
+
+
+## Где это применяется на практике
+
+Алгоритмы контрольных сумм из этого репозитория используются в сервисе
+проверки контрагентов [KontragentPro](https://kontragentpro.ru) — проверка
+компаний и ИП по ИНН/ОГРН: финансы, суды, банкротства, связи. Если нужен
+готовый сервис, а не своя реализация, — можно посмотреть там.
+
